@@ -1,3 +1,13 @@
+# Random Quote Generator with Reactjs
+ 
+Just wrapped up a fun little project—a **Random Quote Generator** built with **React.js and TypeScript**! This app fetches inspirational quotes at the click of a button, making it a great way to explore **API integration, state management, and TypeScript for type safety**.  
+
+🔹 **Key Features:**  
+💡 Generates random quotes with a single click  
+🔗 Fetches quotes from an API for variety  
+🎨 Simple, clean UI with Tailwind CSS  
+📜 Copy or share quotes easily  
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
