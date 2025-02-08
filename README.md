@@ -2,6 +2,8 @@
  
 Just wrapped up a fun little project—a **Random Quote Generator** built with **React.js and TypeScript**! This app fetches inspirational quotes at the click of a button, making it a great way to explore **API integration, state management, and TypeScript for type safety**.  
 
+![image](https://github.com/user-attachments/assets/60b79f84-8d6a-41bb-ae8c-99f5de84103d)
+
 🔹 **Key Features:**  
 💡 Generates random quotes with a single click  
 🔗 Fetches quotes from an API for variety  
